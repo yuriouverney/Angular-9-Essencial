@@ -13,4 +13,8 @@ ng new frontend --minimal
 //pasta frontend
 //compila e inicia o projeto
 npm start
+//adicionando o material designer -- layout da aplicação!
+ng add @angular/material
+//criando um componente header
+ng generate component componentes/template/header
 
