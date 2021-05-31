@@ -25,4 +25,6 @@ ng generate component componentes/template/nav
 ng generate component views/home
 //criando componente CRUD
 ng generate component views/product-crud
+//criando componente Criar Produto
+ng generate component componentes/product/product-create
 
