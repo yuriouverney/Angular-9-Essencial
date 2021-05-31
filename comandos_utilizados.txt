@@ -17,4 +17,6 @@ npm start
 ng add @angular/material
 //criando um componente header
 ng generate component componentes/template/header
+//criando componente footer
+ng generate component componentes/template/footer
 
