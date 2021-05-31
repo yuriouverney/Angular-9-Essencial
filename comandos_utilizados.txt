@@ -30,3 +30,5 @@ ng generate component componentes/product/product-create
 //criando uma diretiva
 ng generate directive directives/red
 
+
+
