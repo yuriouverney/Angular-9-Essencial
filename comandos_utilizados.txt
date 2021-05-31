@@ -21,4 +21,6 @@ ng generate component componentes/template/header
 ng generate component componentes/template/footer
 //criando componente nav (navegação)
 ng generate component componentes/template/nav
+//criando componente Home (pagina home)
+ng generate component views/home
 
