@@ -19,4 +19,6 @@ ng add @angular/material
 ng generate component componentes/template/header
 //criando componente footer
 ng generate component componentes/template/footer
+//criando componente nav (navegação)
+ng generate component componentes/template/nav
 
