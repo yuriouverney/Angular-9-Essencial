@@ -1,0 +1,16 @@
+// curso: https://www.udemy.com/course/angular-9-essencial/learn/lecture/18819362#overview
+//pasta backend
+npm init -y
+npm i json-server
+npm start => Obs: após adicionar o script ""start": "json-server --watch db.json --port 3001"" no package.json
+
+//pasta global
+//baixando o angular
+npm i -g @angular/cli
+//criando um projeto
+ng new frontend --minimal 
+
+//pasta frontend
+//compila e inicia o projeto
+npm start
+
