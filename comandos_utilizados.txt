@@ -29,6 +29,7 @@ ng generate component views/product-crud
 ng generate component componentes/product/product-create
 //criando uma diretiva
 ng generate directive directives/red
-
+//criando um product service
+ng generate service componentes/product/product
 
 
