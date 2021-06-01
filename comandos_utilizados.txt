@@ -31,5 +31,6 @@ ng generate component componentes/product/product-create
 ng generate directive directives/red
 //criando um product service
 ng generate service componentes/product/product
-
+//criando um componente de leitura dos produtos
+ng generate component componentes/product/product-read 
 

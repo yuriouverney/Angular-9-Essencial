@@ -19,6 +19,11 @@
       "name": "geladeira",
       "price": "1800",
       "id": 4
+    },
+    {
+      "name": "camera",
+      "price": "100",
+      "id": 5
     }
   ]
 }
