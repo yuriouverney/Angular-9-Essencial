@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "caneta bic preta",
-      "price": 5.89
-    },
-    {
       "id": 2,
       "name": "Notebook MacPro",
       "price": 12000
@@ -19,11 +14,6 @@
       "name": "geladeira",
       "price": "1800",
       "id": 4
-    },
-    {
-      "name": "camera",
-      "price": "100",
-      "id": 5
     }
   ]
 }

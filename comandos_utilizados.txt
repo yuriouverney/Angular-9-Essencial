@@ -37,4 +37,6 @@ ng generate component componentes/product/product-read
 ng generate @angular/material:table componentes/product/product-read2
 //criando componente de Atualizar Produto
 ng generate component componentes/product/product-update
+//criando componente de Deletar Produto
+ng generate component componentes/product/product-delete
 
