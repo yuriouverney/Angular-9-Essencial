@@ -35,3 +35,6 @@ ng generate service componentes/product/product
 ng generate component componentes/product/product-read 
 //criando um componente tabela
 ng generate @angular/material:table componentes/product/product-read2
+//criando componente de Atualizar Produto
+ng generate component componentes/product/product-update
+
